@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
- in
+ int
 main () 
  { 
 double a, b, c, D = 0, x1, x2;
